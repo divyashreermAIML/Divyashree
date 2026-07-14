@@ -66,9 +66,10 @@ streamlit run dashboard.py
 - Increased traffic throughput
 - Improved traffic flow using AI-based signal timing
 
-## 📷 Screenshots
+## Dashboard Screenshot
 
-(Add your dashboard and simulation screenshots here.)
+![Dashboard](screenshots/dashboard.png)
+
 
 ## 👩‍💻 Author
 
